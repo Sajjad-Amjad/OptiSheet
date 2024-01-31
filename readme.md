@@ -1,7 +1,7 @@
 # OptiSheet: AI-Based Data Processing Tool
 
 ## Introduction
-OptiSheet is an AI-powered, easy-to-use tool designed for efficient data analysis and manipulation. It's tailored to work with multiple Google Sheets of the same structure and supports CSV file processing. This desktop application is ready to use on your local computer with no specific technical requirements, streamlining data handling tasks with the power of AI.
+OptiSheet is an AI-powered, easy-to-use tool designed for efficient AI-based Data Answering. It's tailored to work with multiple Google Sheets of the same structure and supports CSV file processing. This desktop application is ready to use on your local computer with no specific technical requirements, streamlining data handling tasks with the power of AI.
 
 ![OptiSheet Sample](Data/sample.png)
 
